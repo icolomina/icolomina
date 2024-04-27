@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on: [https://dev.to/icolomina](https://dev.to/icolomina)
 
-- 📫 How to reach me: **ignacio.colomina@gmail.com**
+- 📫 How to reach me: **rocket80@tutamail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
