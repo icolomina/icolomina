@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **rocket80@tutamail.com**
 
-- My book: [Building an Operation-Oriented Api using PHP and the Symfony Framework: A step-by-step guide](https://www.amazon.com/dp/B0D79KGL7P)
+- 📝 My book: [Building an Operation-Oriented Api using PHP and the Symfony Framework: A step-by-step guide](https://www.amazon.com/dp/B0D79KGL7P)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
